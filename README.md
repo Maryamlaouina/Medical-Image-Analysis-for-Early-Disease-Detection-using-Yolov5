@@ -15,6 +15,6 @@ subfolders "images" and "labels". The
 annotations, in particular information on bounding boxes. In addition, a
 file in YAML format is provided, simplifying the training process by offering
 direct compatibility.
-voila le lien vers Dataset https://universe.roboflow.com/east-west-university-9frzq/kidney-stone-detection-wfjba
+here is the link to this dataset https://universe.roboflow.com/east-west-university-9frzq/kidney-stone-detection-wfjba
 
 <img width="532" alt="image" src="https://github.com/Maryamlaouina/Medical-Image-Analysis-for-Early-Disease-Detection-using-Yolov5/assets/103520731/a6c060da-d846-45ac-b920-4747daf68f59">
